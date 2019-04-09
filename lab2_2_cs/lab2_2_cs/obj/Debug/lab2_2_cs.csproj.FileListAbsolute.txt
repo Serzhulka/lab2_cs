@@ -1,6 +1,0 @@
-D:\labs_sys_prog\lab2_2_cs\lab2_2_cs\bin\Debug\lab2_2_cs.exe.config
-D:\labs_sys_prog\lab2_2_cs\lab2_2_cs\bin\Debug\lab2_2_cs.exe
-D:\labs_sys_prog\lab2_2_cs\lab2_2_cs\bin\Debug\lab2_2_cs.pdb
-D:\labs_sys_prog\lab2_2_cs\lab2_2_cs\obj\Debug\lab2_2_cs.exe
-D:\labs_sys_prog\lab2_2_cs\lab2_2_cs\obj\Debug\lab2_2_cs.pdb
-D:\labs_sys_prog\lab2_2_cs\lab2_2_cs\obj\Debug\lab2_2_cs.csprojResolveAssemblyReference.cache
